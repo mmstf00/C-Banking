@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\musta\OneDrive\Работен плот\Projects\C Banking\Banking sysytem\main.cpp(33,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\musta\OneDrive\Работен плот\Projects\C Banking\Banking sysytem\main.cpp(54,16): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\musta\OneDrive\Работен плот\Projects\C Banking\Banking sysytem\main.cpp(538,40): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\musta\OneDrive\Работен плот\Projects\C Banking\Banking sysytem\main.cpp(603,40): warning C4305: '=': truncation from 'double' to 'float'
+  Banking sysytem.vcxproj -> C:\Users\musta\OneDrive\Работен плот\Projects\C Banking\Debug\Banking sysytem.exe
